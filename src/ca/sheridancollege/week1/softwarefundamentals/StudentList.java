@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class StudentList {
     
     public static void main(String[] args) {
+        date:22-1-20
         
         Student [] sList= new Student[5];
         
